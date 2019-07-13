@@ -1,8 +1,7 @@
 package com.thoughtworks.collection;
 
-import com.sun.xml.internal.bind.v2.util.CollisionCheckStack;
-import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
+import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
